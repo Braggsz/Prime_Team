@@ -1,0 +1,10 @@
+TOKEN = '7039961825:AAGmyb-lFESj2INpi81JWQAV9kgZwPBtJSU'
+ADMIN_ID = '6821884320'  # ID админа, куда будут отправляться заявки
+Чат - https://t.me/+3LpT8owvniUyYmQx
+Выплаты - https://t.me/+aCwB2bvXpPI3ZGIx
+
+
+
+
+
+parse_mode='HTML'
